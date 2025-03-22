@@ -30,7 +30,7 @@ The purpose of this project is to predict if cryptocurrencies are affected by 24
     ![Composite Plot for Elbow Curve](images/Elbow_curve.png)
 
 - **Cluster Plot Comparison**: The composite plot also contrasts the actual clusters formed in the scaled data versus the PCA-reduced data.
-    ![Composite Plot for CryptoCurrency Clusters](images/cluster_plot.png)
+    ![Composite Plot for CryptoCurrency Clusters](images/Cluster_Plot.png)
 
 ## Results and Analysis
 - **Elbow Curve for PCA Data**: The elbow curve for the PCA data shows that with `k=4`, the inertia is 49.665, suggesting a more compact clustering.
